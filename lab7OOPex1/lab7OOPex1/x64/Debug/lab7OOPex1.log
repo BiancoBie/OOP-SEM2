@@ -1,0 +1,4 @@
+﻿  lab7OOPex1.cpp
+C:\Users\Bianca\source\repos\lab7OOPex1\lab7OOPex1\lab7OOPex1.cpp(9,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Bianca\source\repos\lab7OOPex1\lab7OOPex1\lab7OOPex1.cpp(14,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  lab7OOPex1.vcxproj -> C:\Users\Bianca\source\repos\lab7OOPex1\x64\Debug\lab7OOPex1.exe

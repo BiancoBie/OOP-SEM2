@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  Number.cpp
+C:\Users\Bianca\source\repos\.NET\lab5OOP\lab5OOP\Number.cpp(296,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  lab5OOP.vcxproj -> C:\Users\Bianca\source\repos\.NET\lab5OOP\x64\Debug\lab5OOP.exe

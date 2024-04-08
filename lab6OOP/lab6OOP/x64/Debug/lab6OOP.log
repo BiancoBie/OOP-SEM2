@@ -1,0 +1,6 @@
+﻿  Circuit.cpp
+C:\Users\Bianca\source\repos\lab6OOP\lab6OOP\Car.h(20,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Circuit.cpp')
+  
+C:\Users\Bianca\source\repos\lab6OOP\lab6OOP\Circuit.cpp(116,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  lab6OOP.vcxproj -> C:\Users\Bianca\source\repos\lab6OOP\x64\Debug\lab6OOP.exe

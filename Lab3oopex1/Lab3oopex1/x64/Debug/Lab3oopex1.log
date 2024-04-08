@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\Bianca\source\repos\Lab3oopex1\Lab3oopex1\Main.cpp(4,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  C:\Users\Bianca\source\repos\Lab3oopex1\Lab3oopex1\Main.cpp(4,1):
+  '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+  Lab3oopex1.vcxproj -> C:\Users\Bianca\source\repos\Lab3oopex1\x64\Debug\Math.cpp.exe
