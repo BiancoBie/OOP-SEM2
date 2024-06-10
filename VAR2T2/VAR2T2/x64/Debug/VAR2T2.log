@@ -1,0 +1,3 @@
+﻿  Shop.cpp
+C:\Users\Bianca\source\repos\OOP-SEM2\OOP-SEM2\VAR2T2\VAR2T2\Shop.cpp(15,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  VAR2T2.vcxproj -> C:\Users\Bianca\source\repos\OOP-SEM2\OOP-SEM2\VAR2T2\x64\Debug\VAR2T2.exe
